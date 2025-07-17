@@ -3,7 +3,7 @@
 ![Backend](https://img.shields.io/badge/Backend-555555?style=for-the-badge&logo=server&logoColor=white)
 ![IT Engineer](https://img.shields.io/badge/IT%20Engineer-007ACC?style=for-the-badge&logo=gear&logoColor=white)
 
-![](https://media.tenor.com/h-vRtS8s5roAAAAM/sad-night.gif)
+![](https://99px.ru/sstorage/86/2018/09/image_862409182144257753536.gif)
 
 ----
 ## Python Stack
