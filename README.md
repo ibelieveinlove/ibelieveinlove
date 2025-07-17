@@ -1,4 +1,4 @@
-# Young IT Engineer : "ibelieveinlove"
+# Young IT Engineer : Egor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-555555?style=for-the-badge&logo=server&logoColor=white)
 ![IT Engineer](https://img.shields.io/badge/IT%20Engineer-007ACC?style=for-the-badge&logo=gear&logoColor=white)
